@@ -1,3 +1,7 @@
+# install pipwin
+# pipwin intall pyaudio
+# install speechrecognition
+
 import speech_recognition as sr
 
 def reconhecer_fala():
